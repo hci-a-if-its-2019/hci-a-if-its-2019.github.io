@@ -1,15 +1,19 @@
 ![Image](logo.png)
 
-## About The Course
-
-- **Course ID**: IF184601
-- **Course name**: Human-Computer Interaction
-- *Schedule*: Thursday, 10.00 – 12.50
-- *Classroom*: IF-LP2
-- **Lecturer**: Hadziq Fabroyir ( **NPP**: 1986201911089 )
-- *Email*: hadziq (at) if.its.ac.id
-- *Office*: IF-233 ( 2nd Floor, North Corridor )
-- *Office hours*: Tuesday and Friday, 09.00 – 11.00 ( or by appointment )
+## IF184601 - Human-Computer Interaction (A)
+### Schedule
+Thursday, 10.00 – 12.50
+### Classroom
+IF-LP2
+### Lecturer
+Hadziq Fabroyir 
+- **NPP**: 1986201911089 )
+- **Email**:
+hadziq (at) if.its.ac.id
+- **Office**:
+IF-233 ( 2nd Floor, North Corridor )
+- **Office hours**:
+Tuesday and Friday, 09.00 – 11.00 ( or by appointment )
 
 ## Grading
 
