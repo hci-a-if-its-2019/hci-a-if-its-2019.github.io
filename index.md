@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## About The Course
 
-You can use the [editor on GitHub](https://github.com/hci-a-if-its-2019/hci-a-if-its-2019.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Course ID**: IF184601
+**Course name**: Human-Computer Interaction
+- *Schedule*: Thursday, 10.00 – 12.50
+- *Classroom*: IF-LP2
+**Lecturer**: Hadziq Fabroyir ( **NPP**: 1986201911089 )
+- *Email*: hadziq (at) if.its.ac.id
+- *Office*: IF-233 ( 2nd Floor, North Corridor )
+- *Office hours*: Tuesday and Friday, 09.00 – 11.00 ( or by appointment )
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Grading
 
-### Markdown
+1. Presence: 10%
+2. Assignments: 30%
+3. Individual midterm: 30%
+4. Grouped final project: 30%
+5. Extra scores for any engagement during the course: questioning, answering, commenting, etc.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Reading References
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hci-a-if-its-2019/hci-a-if-its-2019.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. **The UX Book** by Rex Hartson and Pardha Pyla
+2. **Human-Computer Interaction** by Alan Dix
+3. **The Design of Everyday Things** by Don Norman
