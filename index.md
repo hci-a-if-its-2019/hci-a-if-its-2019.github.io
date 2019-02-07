@@ -1,11 +1,13 @@
+# IF184601 - Human-Computer Interaction (A)
+
 ![Image](logo.png)
 
-## IF184601 - Human-Computer Interaction (A)
-### Schedule
+## About
+#### Schedule
 Thursday, 10.00 – 12.50
-### Classroom
+#### Classroom
 IF-LP2
-### Lecturer
+#### Lecturer
 Hadziq Fabroyir 
 - **NPP**: 1986201911089 )
 - **Email**:
