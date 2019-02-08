@@ -1,7 +1,3 @@
-# IF184601 - Human-Computer Interaction (A)
-
-![Image](logo.png)
-
 ## About
 #### Schedule
 Thursday, 10.00 – 12.50
