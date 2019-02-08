@@ -1,17 +1,15 @@
 ## About
+
 #### Schedule
 Thursday, 10.00 – 12.50
 #### Classroom
 IF-LP2
 #### Lecturer
 Hadziq Fabroyir 
-- **NPP**: 1986201911089 )
-- **Email**:
-hadziq (at) if.its.ac.id
-- **Office**:
-IF-233 ( 2nd Floor, North Corridor )
-- **Office hours**:
-Tuesday and Friday, 09.00 – 11.00 ( or by appointment )
+- **NPP**: 1986201911089
+- **Email**: hadziq (at) if.its.ac.id
+- **Office**: IF-233 ( 2nd Floor, North Corridor )
+- **Office hours**: Tuesday and Friday, 09.00 – 11.00 ( or by appointment )
 
 ## Grading
 
@@ -26,3 +24,7 @@ Tuesday and Friday, 09.00 – 11.00 ( or by appointment )
 1. **The UX Book** by Rex Hartson and Pardha Pyla
 2. **Human-Computer Interaction** by Alan Dix
 3. **The Design of Everyday Things** by Don Norman
+
+## Course Materials (*IF ITS access only*)
+
+1. [Introduction to The Course (2019-02-07)](http://10.151.22.158/hci2019/1stMeeting.pptx)
