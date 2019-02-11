@@ -25,6 +25,6 @@ Hadziq Fabroyir
 2. **Human-Computer Interaction** by Alan Dix
 3. **The Design of Everyday Things** by Don Norman
 
-## Course Materials (*IF ITS access only*)
+## Course Materials
 
-1. [Introduction to The Course (2019-02-07)](http://10.151.22.158/hci2019/1stMeeting.pptx)
+1. [Introduction to The Course (PPTX: 153.4KB)](http://hadziq.if.its.ac.id/hci2019/1stMeeting.pptx)
