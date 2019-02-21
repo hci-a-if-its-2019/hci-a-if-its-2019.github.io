@@ -29,3 +29,4 @@ Hadziq Fabroyir
 
 1. [Introduction to The Course (PPTX: 153.4KB)](http://hadziq.if.its.ac.id/hci2019/1stMeeting.pptx)
 2. [Why UIs Important and Difficult to Design (PPTX: 2.2MB)](http://hadziq.if.its.ac.id/hci2019/2ndMeeting.pptx)
+3. [Contextual Inquiry and Analysis (PPTX: 831KB)](http://hadziq.if.its.ac.id/hci2019/3rdMeeting.pptx)
