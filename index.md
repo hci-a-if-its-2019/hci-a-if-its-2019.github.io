@@ -31,3 +31,4 @@ Hadziq Fabroyir
 2. [Why UIs Important and Difficult to Design (PPTX: 2.2MB)](http://hadziq.if.its.ac.id/hci2019/2ndMeeting.pptx)
 3. [Contextual Inquiry and Analysis (PPTX: 831KB)](http://hadziq.if.its.ac.id/hci2019/3rdMeeting.pptx)
 and [Using Contextual Inquiry Analysis to Improve PDA Control of Presentations (PDF: 308KB)](http://hadziq.if.its.ac.id/hci2019/Using-Contextual-Inquiry-Analysis-to-Improve-PDA-Control-of-Presentations.pdf)
+4. [Contextual Analysis (PPTX: 2.3MB)](http://hadziq.if.its.ac.id/hci2019/4thMeeting.pptx)
