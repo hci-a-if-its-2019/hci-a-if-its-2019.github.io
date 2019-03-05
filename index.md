@@ -13,11 +13,11 @@ Hadziq Fabroyir
 
 ## Grading
 
-1. Presence: 10%
-2. Assignments: 30%
+1. [Presence](http://etc.if.its.ac.id/absenKuliah/IF184601-A-19): 10%
+2. [Assignments](https://github.com/hci-a-if-its-2019?utf8=✓&q=assignment): 30%
 3. Individual midterm: 30%
 4. Grouped final project: 30%
-5. Extra scores for any engagement during the course: questioning, answering, commenting, etc.
+5. Extra scores for any [engagement](https://github.com/hci-a-if-its-2019/engagement) during the course: questioning, answering, commenting, etc.
 
 ## Reading References
 
