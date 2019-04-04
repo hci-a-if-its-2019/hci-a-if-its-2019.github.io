@@ -35,3 +35,4 @@ and [Using Contextual Inquiry Analysis to Improve PDA Control of Presentations (
 5. [Sketching and Prototyping (PPTX: 10.9MB)](http://hadziq.if.its.ac.id/hci2019/5thMeeting.pptx)
 6. [InVision](https://invisionapp.com) Prototyping Workshop using [InVision Web App](https://projects.invisionapp.com), [InVision Studio for Mac (DMG: 94.7MB)](http://hadziq.if.its.ac.id/hci2019/InVision-Studio.dmg), [Pocketbook (PDF: 14.3MB)](https://uxtricks.design/products/invision-studio-book/)
 7. [(UI) Design (Tips) in HCI (PPTX: 7.4MB)](http://hadziq.if.its.ac.id/hci2019/7thMeeting-Design.pptx) and [Usability Evaluation (PPTX: 1.6MB)](http://hadziq.if.its.ac.id/hci2019/7thMeeting-Evaluation.pptx)
+8. [Heuristic Evaluation (PPTX: 1.3MB)](http://hadziq.if.its.ac.id/hci2019/8thMeeting.pptx)
