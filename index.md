@@ -38,4 +38,4 @@ and [Using Contextual Inquiry Analysis to Improve PDA Control of Presentations (
 8. [Heuristic Evaluation (PPTX: 1.3MB)](http://hadziq.if.its.ac.id/hci2019/8thMeeting.pptx)
 9. [Web and Mobile UI Practical Tips (PPTX: 8.2MB)](http://hadziq.if.its.ac.id/hci2019/10thMeeting.pptx)
 10. Web UI Design for the Human Eye: [Colors, Space, Contrast (PDF: 9.3MB)](http://hadziq.if.its.ac.id/hci2019/Psychology-of-Web-UI-Design-Bundle/Web-UI-Design-for-the-Human-Eye-Part-1.pdf); [Content Patterns & Typography (PDF: 8.2MB)](http://hadziq.if.its.ac.id/hci2019/Psychology-of-Web-UI-Design-Bundle/Web-UI-Design-for-the-Human-Eye-Part-2.pdf); [Principles of Visual Consistency (PDF: 2.9MB)](http://hadziq.if.its.ac.id/hci2019/Psychology-of-Web-UI-Design-Bundle/Web-UI-Design-for-the-Human-Eye-Principles-of-Visual-Consistency.pdf)
-11. [Understanding Users via Persona (PPTX: 8MB)](http://hadziq.if.its.ac.id/hci2019/11thMeeting.pptx)
+11. [Understanding Users via Persona (PPTX: 7.2MB)](http://hadziq.if.its.ac.id/hci2019/11thMeeting.pptx)
