@@ -1,8 +1,8 @@
 ## About
 
 #### Schedule
-Feb 4th - May 24th, 2019
-Thursday, 10.00 – 12.50
+Feb 4th - May 24th, 2019: 
+*Thursday, 10.00 – 12.50*
 #### Classroom
 IF-LP2
 #### Lecturer
