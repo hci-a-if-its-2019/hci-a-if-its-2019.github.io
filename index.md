@@ -1,12 +1,13 @@
 ## About
 
 #### Schedule
+Feb 4th - May 24th, 2019
 Thursday, 10.00 – 12.50
 #### Classroom
 IF-LP2
 #### Lecturer
 Hadziq Fabroyir 
-- **NPP**: 1986201911089
+- **NIP**: 1986201911089
 - **Email**: hadziq (at) if.its.ac.id
 - **Office**: IF-233 (2nd Floor, North Corridor)
 - **Office hours**: Tuesday and Friday, 09.00 – 11.00 (or by appointment)
@@ -16,8 +17,10 @@ Hadziq Fabroyir
 1. [Presence](http://etc.if.its.ac.id/absenKuliah/IF184601-A-19): 10%
 2. [Assignments](https://github.com/hci-a-if-its-2019?utf8=✓&q=assignment): 30%
 3. [Individual midterm](http://hadziq.if.its.ac.id/hci2019/MidtermResultsPublished.pdf): 30%
-4. Grouped final project: 30%
+4. [Grouped final project](https://github.com/hci-a-if-its-2019?utf8=✓&q=final-project): 30%
 5. Extra scores for any [engagement](https://github.com/hci-a-if-its-2019/engagement) during the course: questioning, answering, commenting, etc.
+
+[GRADING RECAP DETAILS](http://hadziq.if.its.ac.id/hci2019/IF184601_A_Grading_Recap.pdf)
 
 ## Reading References
 
