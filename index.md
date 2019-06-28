@@ -7,7 +7,7 @@ Feb 4th - May 24th, 2019:
 IF-LP2
 #### Lecturer
 Hadziq Fabroyir 
-- **NIP**: 1986201911089
+- **NIP**: 198602272019031006
 - **Email**: hadziq (at) if.its.ac.id
 - **Office**: IF-233 (2nd Floor, North Corridor)
 - **Office hours**: Tuesday and Friday, 09.00 – 11.00 (or by appointment)
